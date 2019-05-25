@@ -1,4 +1,4 @@
-module System.CommandExists where
+module System.CommandExists (commandExists) where
 
 import Effect (Effect)
 import Effect.Uncurried
