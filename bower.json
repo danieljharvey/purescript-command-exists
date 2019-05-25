@@ -1,5 +1,9 @@
 {
   "name": "purescript-command-exists",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieljharvey/purescript-command-exists.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
